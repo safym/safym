@@ -23,6 +23,7 @@
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">&nbsp;
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">&nbsp;
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff" />&nbsp;
    <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&logo=figma&logoColor=white&color=A259FF" />&nbsp;
@@ -35,7 +36,7 @@
 
 <h1 align="center">My repositories</h1>
 
-<h3 align="center">Web aplications</h3>
+<h3 align="center">Web applications</h3>
 <table width="100%" >
  <tr>
   <td width="33%" valign="top" align="center">
