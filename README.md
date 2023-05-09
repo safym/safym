@@ -39,22 +39,28 @@
 <h3 align="center">Web applications</h3>
 <table width="100%" >
  <tr>
-  <td width="33%" valign="top" align="center">
+  <td width="25%" valign="top" align="center">
     <a href="https://github.com/safym/sultan-shop">
       <p align="center">Online store</p>
       <img width="700" src="https://user-images.githubusercontent.com/99616798/231538037-bd91a5fe-fe47-4ca9-8bec-968c7a6f0a3f.jpg">
     </a>
   </td>
-  <td width="33%" valign="top" align="center">      
+  <td width="25%" valign="top" align="center">      
     <a href="https://github.com/safym/git-repo-search">
       <p align="center">Github Repo search</p>
       <img width="700" src="https://user-images.githubusercontent.com/99616798/231538492-056eb155-d1cf-465a-81fc-81c9f02f3487.png">
     </a>
   </td>
-  <td width="33%" valign="top" align="center">
+  <td width="25%" valign="top" align="center">
     <a href="https://github.com/safym/comments">
       <p align="center">Comments block</p>
       <img width="700" src="https://user-images.githubusercontent.com/99616798/231536085-9c21ecb2-4724-4822-bf75-e15f745183f4.png">
+    </a>    
+  </td>
+  <td width="25%" valign="top" align="center">
+    <a href="https://github.com/safym/onpoint">
+      <p align="center">Slide presentation</p>
+      <img width="700" src="https://user-images.githubusercontent.com/99616798/236990046-b1f58efd-043a-4b92-ba96-e4092785c984.png">
     </a>    
   </td>
  </tr>
