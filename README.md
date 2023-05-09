@@ -69,21 +69,27 @@
 <h3 align="center">Layouts</h3>
 <table width="100%">
   <tr>
-  <td width="33%" valign="top" align="center">
+  <td width="25%" valign="top" align="center">
     <a href="https://github.com/safym/elite-fire">
       <p align="center">Biofireplaces landing page</p>
      <img width="429" src="https://user-images.githubusercontent.com/99616798/231548073-3ed86f28-199c-491b-bb28-21ad7d197bb8.png">
     </a>
   </td>
-  <td width="33%" valign="top" align="center">
+  <td width="25%" valign="top" align="center">
     <a href="https://github.com/safym/conquest">
       <p align="center">Watch landing page</p>
       <img width="429" src="https://user-images.githubusercontent.com/99616798/231548089-fbf87ef4-8c7f-4325-b5d6-243b0fa77bd3.png">
     </a>
   </td>
-  <td width="33%" valign="top" align="center">      
+  <td width="25%" valign="top" align="center">      
     <a href="https://github.com/safym/funBox-task">
       <p align="center">Selectable product items page</p>
+      <img src="https://user-images.githubusercontent.com/99616798/231541972-0126d865-adfa-4ddf-913b-bb71c781a6cb.png">
+    </a>
+  </td>
+  <td width="25%" valign="top" align="center">      
+    <a href="https://github.com/safym/amocrm-layout">
+      <p align="center">WELBEX layout</p>
       <img src="https://user-images.githubusercontent.com/99616798/231541972-0126d865-adfa-4ddf-913b-bb71c781a6cb.png">
     </a>
   </td>
