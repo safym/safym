@@ -83,14 +83,14 @@
   </td>
   <td width="25%" valign="top" align="center">      
     <a href="https://github.com/safym/funBox-task">
-      <p align="center">Selectable product items page</p>
+      <p align="center">Product items page</p>
       <img src="https://user-images.githubusercontent.com/99616798/231541972-0126d865-adfa-4ddf-913b-bb71c781a6cb.png">
     </a>
   </td>
   <td width="25%" valign="top" align="center">      
     <a href="https://github.com/safym/amocrm-layout">
       <p align="center">WELBEX layout</p>
-      <img src="https://user-images.githubusercontent.com/99616798/231541972-0126d865-adfa-4ddf-913b-bb71c781a6cb.png">
+      <img src="https://user-images.githubusercontent.com/99616798/236990811-4469945f-1e0d-45ae-a6c0-f87083e8b096.png">
     </a>
   </td>
  </tr>
