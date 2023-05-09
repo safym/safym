@@ -89,7 +89,7 @@
   </td>
   <td width="25%" valign="top" align="center">      
     <a href="https://github.com/safym/amocrm-layout">
-      <p align="center">WELBEX layout</p>
+      <p align="center">WELBEX landing</p>
       <img src="https://user-images.githubusercontent.com/99616798/236990811-4469945f-1e0d-45ae-a6c0-f87083e8b096.png">
     </a>
   </td>
